@@ -42,9 +42,9 @@ In this website, we use pickle libray to export model Random forest which is the
 
 ![image](https://github.com/quang-anh-ute/Rainfall-Prediction-ML-project/assets/145630889/136dc394-178e-413d-9eca-b13e5d40fa32)
 
-![image](https://github.com/quang-anh-ute/Rainfall-Prediction-ML-project/assets/145630889/57cf8f81-a082-43c6-b801-22aa8f51da83)
-
 ![image](https://github.com/quang-anh-ute/Rainfall-Prediction-ML-project/assets/145630889/9a6b305b-2f6e-4ae6-b58f-4d6dc9d19b8b)
+
+![image](https://github.com/quang-anh-ute/Rainfall-Prediction-ML-project/assets/145630889/57cf8f81-a082-43c6-b801-22aa8f51da83)
 
 ![image](https://github.com/quang-anh-ute/Rainfall-Prediction-ML-project/assets/145630889/aecea101-bcc6-4b06-bee5-dc2493daa752)
 
